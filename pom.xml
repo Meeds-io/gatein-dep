@@ -59,7 +59,7 @@
     <version.concurrent>1.3.4</version.concurrent>
     <version.hsqldb>2.3.0</version.hsqldb>
     <version.rhino>1.7R2</version.rhino>
-    <version.groovy>1.8.9</version.groovy>
+    <version.groovy>2.4.11</version.groovy>
     <version.concurrent>1.3.4</version.concurrent>
     <version.orgjson>20070829</version.orgjson>
     <version.nuhtmlparser>1.0.7</version.nuhtmlparser>
