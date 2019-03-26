@@ -14,7 +14,7 @@
 
   <groupId>org.exoplatform.gatein</groupId>
   <artifactId>gatein-dep</artifactId>
-  <version>1.7.x-SNAPSHOT</version>
+  <version>1.8.x-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <scm>
