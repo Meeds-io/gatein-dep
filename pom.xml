@@ -70,7 +70,7 @@
     <version.google.inject>3.0</version.google.inject>
     <version.google.guava>11.0.2</version.google.guava>
     <version.oauth.core_auth>20100527</version.oauth.core_auth>
-    <version.caja.caja>r4251</version.caja.caja>
+    <version.caja.caja>r5054</version.caja.caja>
     <version.caja.json>r1</version.caja.json>
     <version.jibx>1.2.4.5</version.jibx>
     <version.org.antlr>3.5</version.org.antlr>
