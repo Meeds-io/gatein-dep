@@ -14,14 +14,14 @@
 
   <groupId>org.exoplatform.gatein</groupId>
   <artifactId>gatein-dep</artifactId>
-  <version>1.7.x-acc222-SNAPSHOT</version>
+  <version>1.7.1-acc222-01</version>
   <packaging>pom</packaging>
 
   <scm>
     <connection>scm:git:git://github.com/exoplatform/gatein-dep.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/exoplatform/gatein-dep.git</developerConnection>
     <url>https://github.com/exoplatform/gatein-dep</url>
-    <tag>1.7.1</tag>
+    <tag>1.7.1-acc222-01</tag>
   </scm>
 
   <licenses>
