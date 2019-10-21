@@ -121,7 +121,7 @@
 
     <version.hibernate.jpa20.api>1.0.1.Final</version.hibernate.jpa20.api>
     <version.hibernate.commonsannotations>4.0.1.Final</version.hibernate.commonsannotations>
-    <version.hibernate.core>4.2.5.Final</version.hibernate.core>
+    <version.hibernate.core>4.2.21.Final</version.hibernate.core>
     <version.jboss.logging>3.3.0.Final</version.jboss.logging>
     <version.apache.tika>1.4</version.apache.tika>
     <version.apache.lucene>3.6.2</version.apache.lucene>
