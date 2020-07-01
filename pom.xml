@@ -147,7 +147,7 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
     <version.jregex>1.2_01</version.jregex>
     <version.japex>1.2.3</version.japex>
 
-    <version.htmlunit>2.8</version.htmlunit>
+    <version.htmlunit>2.37.0</version.htmlunit>
     <version.jetty>6.1.25</version.jetty>
     <com.google.gwt.version>2.1.0</com.google.gwt.version>
     <com.googlecode.gwtupload.version>0.6.3-compat</com.googlecode.gwtupload.version>
