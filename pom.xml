@@ -108,7 +108,7 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
     <version.log4j>1.2.16</version.log4j>
     <version.pdfbox>1.8.2</version.pdfbox>
     <version.picocontainer>1.1</version.picocontainer>
-    <version.quartz>2.2.0</version.quartz>
+    <version.quartz>2.3.2</version.quartz>
     <version.xpp3>1.1.6</version.xpp3>
     <version.xstream>1.4.4</version.xstream>
 
