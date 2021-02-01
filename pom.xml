@@ -110,7 +110,7 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
     <version.picocontainer>1.1</version.picocontainer>
     <version.quartz>2.2.0</version.quartz>
     <version.xpp3>1.1.6</version.xpp3>
-    <version.xstream>1.4.4</version.xstream>
+
 
     <version.apache.tomcat>6.0.29</version.apache.tomcat>
     <version.apache.xerces>2.9.1</version.apache.xerces>
@@ -695,11 +695,6 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
         <groupId>org.ogce</groupId>
         <artifactId>xpp3</artifactId>
         <version>${version.xpp3}</version>
-      </dependency>
-      <dependency>
-        <groupId>com.thoughtworks.xstream</groupId>
-        <artifactId>xstream</artifactId>
-        <version>${version.xstream}</version>
       </dependency>
       <dependency>
        <groupId>org.jboss.as</groupId>
