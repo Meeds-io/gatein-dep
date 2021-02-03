@@ -106,7 +106,6 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
     <version.jsecurity>0.9.0</version.jsecurity>
     <version.juel>2.2.3</version.juel>
     <version.log4j>1.2.16</version.log4j>
-    <version.pdfbox>1.8.2</version.pdfbox>
     <version.picocontainer>1.1</version.picocontainer>
     <version.quartz>2.2.0</version.quartz>
     <version.xpp3>1.1.6</version.xpp3>
@@ -138,7 +137,6 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
     <version.hibernate.commonsannotations>4.0.1.Final</version.hibernate.commonsannotations>
     <version.hibernate.core>4.2.21.Final</version.hibernate.core>
     <version.jboss.logging>3.3.0.Final</version.jboss.logging>
-    <version.apache.tika>1.4</version.apache.tika>
     <version.apache.lucene>3.6.2</version.apache.lucene>
 
     <version.mockito>1.8.5</version.mockito>
