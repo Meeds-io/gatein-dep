@@ -112,7 +112,7 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
     <version.xpp3>1.1.6</version.xpp3>
     <version.apache.tomcat>6.0.29</version.apache.tomcat>
     <version.apache.xerces>2.9.1</version.apache.xerces>
-    <version.apache.poi>3.9</version.apache.poi>
+    <version.apache.poi>5.0.0</version.apache.poi>
     <version.apache.bridges>1.0.4</version.apache.bridges>
     <version.apache.sanselan>0.97-incubator</version.apache.sanselan>
     <version.apache.ws>1.0.1</version.apache.ws>
