@@ -111,11 +111,9 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
     <version.xpp3>1.1.6</version.xpp3>
     <version.apache.tomcat>6.0.29</version.apache.tomcat>
     <version.apache.xerces>2.9.1</version.apache.xerces>
-    <version.apache.poi>3.9</version.apache.poi>
     <version.apache.bridges>1.0.4</version.apache.bridges>
     <version.apache.sanselan>0.97-incubator</version.apache.sanselan>
     <version.apache.ws>1.0.1</version.apache.ws>
-    <version.apache.xmlbeans>2.6.0</version.apache.xmlbeans>
     <version.apache.commons-beanutils>1.8.3</version.apache.commons-beanutils>
     <version.apache.commons-chain>1.2</version.apache.commons-chain>
     <version.apache.commons-codec>1.4</version.apache.commons-codec>
@@ -385,30 +383,9 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
       </dependency>
 
       <dependency>
-        <groupId>org.apache.poi</groupId>
-        <artifactId>poi</artifactId>
-        <version>${version.apache.poi}</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.poi</groupId>
-        <artifactId>poi-ooxml</artifactId>
-        <version>${version.apache.poi}</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.poi</groupId>
-        <artifactId>poi-scratchpad</artifactId>
-        <version>${version.apache.poi}</version>
-      </dependency>
-      <dependency>
         <groupId>org.apache.portals.bridges</groupId>
         <artifactId>portals-bridges-common</artifactId>
         <version>${version.apache.bridges}</version>
-      </dependency>
-
-      <dependency>
-        <groupId>org.apache.pdfbox</groupId>
-        <artifactId>pdfbox</artifactId>
-        <version>${version.pdfbox}</version>
       </dependency>
 
       <dependency>
@@ -428,13 +405,6 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
         <artifactId>ws-commons-util</artifactId>
         <version>${version.apache.ws}</version>
       </dependency>
-
-      <dependency>
-        <groupId>org.apache.xmlbeans</groupId>
-        <artifactId>xmlbeans</artifactId>
-        <version>${version.apache.xmlbeans}</version>
-      </dependency>
-
 
       <!--
       ***********************
@@ -738,16 +708,6 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
         <groupId>org.apache.lucene</groupId>
         <artifactId>lucene-spellchecker</artifactId>
         <version>${version.apache.lucene}</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.tika</groupId>
-        <artifactId>tika-core</artifactId>
-        <version>${version.apache.tika}</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.tika</groupId>
-        <artifactId>tika-parsers</artifactId>
-        <version>${version.apache.tika}</version>
       </dependency>
 
       <!--Jetty packaging-->
