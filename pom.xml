@@ -101,7 +101,7 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
     <version.jhlabs>2.0.235</version.jhlabs>
     <version.htmlparser>2.1</version.htmlparser>
     <version.jdom>1.1.2</version.jdom>
-    <version.junit>4.10</version.junit>
+    <version.junit>4.13.1</version.junit>
     <version.jodatime>1.6.2</version.jodatime>
     <version.jsecurity>0.9.0</version.jsecurity>
     <version.juel>2.2.3</version.juel>
